@@ -1,0 +1,3 @@
+C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/ALL_BUILD.dir
+C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/ZERO_CHECK.dir
+C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/glm.dir

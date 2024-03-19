@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeLists.txt
+C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/2.8.10.2/CMakeSystem.cmake
+C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/2.8.10.2/CMakeCCompiler.cmake
+C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/2.8.10.2/CMakeCXXCompiler.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/CMakeSystemSpecificInformation.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/CMakeGenericSystem.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/Platform/WindowsPaths.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/CMakeCInformation.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-MSVC-C.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-MSVC.cmake
+C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/2.8.10.2/CMakeRCCompiler.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/CMakeRCInformation.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/CMakeCXXInformation.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-MSVC.cmake
+D:/CMake 2.8/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake

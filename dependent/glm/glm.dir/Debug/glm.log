@@ -1,0 +1,38 @@
+﻿生成启动时间为 2014/7/20 10:34:49。
+     1>项目“C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\glm.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“glm.dir\Debug\glm.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Building Custom Rule C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/.. /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"glm.dir\Debug\\" /Fd"C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/Debug/glm.pdb" /Gd /TP /analyze- /errorReport:prompt core\dummy.cpp  /Zm1000 
+         dummy.cpp
+         GLM: Windows platform detected
+         GLM: Visual C++ compiler detected
+         GLM: 32 bits model
+         GLM: C++ with VC language extensions
+         GLM: SSE2 instruction set
+         GLM: x,y,z,w; r,g,b,a; s,t,p,q component names for all vector types
+         GLM: Swizzling operators enabled
+         GLM: Core library included
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"glm.dir\Debug\glm.exe.embed.manifest.res" glm.dir\Debug\glm_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\Debug\glm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"glm.dir\Debug\glm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/Debug/glm.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/Debug/glm.lib" /MACHINE:X86 glm.dir\Debug\glm.exe.embed.manifest.res
+         glm.dir\Debug\dummy.obj  /machine:X86 /debug 
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"glm.dir\Debug\glm.exe.embed.manifest" /manifest glm.dir\Debug\glm.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"glm.dir\Debug\glm.exe.embed.manifest.res" glm.dir\Debug\glm_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\Debug\glm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"glm.dir\Debug\glm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/Debug/glm.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/Debug/glm.lib" /MACHINE:X86 glm.dir\Debug\glm.exe.embed.manifest.res
+         glm.dir\Debug\dummy.obj  /machine:X86 /debug 
+         glm.vcxproj -> C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\Debug\glm.exe
+       FinalizeBuildStatus:
+         正在删除文件“glm.dir\Debug\glm.unsuccessfulbuild”。
+         正在对“glm.dir\Debug\glm.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\glm.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.11

@@ -1,0 +1,205 @@
+The system is: Windows - 6.1 - x86
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft(R) Visual Studio 10.0.30319.1 版。
+版权所有(C) Microsoft Corp。保留所有权利。
+1>------ 已启动生成: 项目: CompilerIdC, 配置: Debug Win32 ------
+1>生成启动时间为 2014/7/20 10:33:49。
+1>InitializeBuildStatus:
+1>  正在创建“Debug\CompilerIdC.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+1>ClCompile:
+1>  CMakeCCompilerId.c
+1>Link:
+1>  CompilerIdC.vcxproj -> C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\2.8.10.2\CompilerIdC\.\CompilerIdC.exe
+1>PostBuildEvent:
+1>  CMAKE_C_COMPILER=C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\cl.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“Debug\CompilerIdC.unsuccessfulbuild”。
+1>  正在对“Debug\CompilerIdC.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:05.49
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj.user"
+
+The C compiler identification is MSVC, found in "C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/2.8.10.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft(R) Visual Studio 10.0.30319.1 版。
+版权所有(C) Microsoft Corp。保留所有权利。
+1>------ 已启动生成: 项目: CompilerIdCXX, 配置: Debug Win32 ------
+1>生成启动时间为 2014/7/20 10:33:57。
+1>InitializeBuildStatus:
+1>  正在创建“Debug\CompilerIdCXX.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+1>ClCompile:
+1>  CMakeCXXCompilerId.cpp
+1>Link:
+1>  CompilerIdCXX.vcxproj -> C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\2.8.10.2\CompilerIdCXX\.\CompilerIdCXX.exe
+1>PostBuildEvent:
+1>  CMAKE_CXX_COMPILER=C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\cl.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“Debug\CompilerIdCXX.unsuccessfulbuild”。
+1>  正在对“Debug\CompilerIdCXX.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:02.49
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj.user"
+
+The CXX compiler identification is MSVC, found in "C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/2.8.10.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~1\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3438737591
+
+Microsoft(R) Visual Studio 10.0.30319.1 版。
+版权所有(C) Microsoft Corp。保留所有权利。
+1>------ 已启动生成: 项目: cmTryCompileExec3438737591, 配置: Debug Win32 ------
+1>生成启动时间为 2014/7/20 10:34:03。
+1>PrepareForBuild:
+1>  正在创建目录“C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\CMakeTmp\Debug\”。
+1>InitializeBuildStatus:
+1>  正在创建“cmTryCompileExec3438737591.dir\Debug\cmTryCompileExec3438737591.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+1>ClCompile:
+1>  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.30319.01 版
+1>  版权所有(C) Microsoft Corporation。保留所有权利。
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3438737591.dir\Debug\\" /Fd"C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3438737591.pdb" /Gd /TC /analyze- /errorReport:prompt testCCompiler.c  /Zm1000 
+1>  
+1>  testCCompiler.c
+1>LinkEmbedManifest:
+1>  cmTryCompileExec3438737591.vcxproj -> C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3438737591.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“cmTryCompileExec3438737591.dir\Debug\cmTryCompileExec3438737591.unsuccessfulbuild”。
+1>  正在对“cmTryCompileExec3438737591.dir\Debug\cmTryCompileExec3438737591.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:04.01
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~1\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1822720528
+
+Microsoft(R) Visual Studio 10.0.30319.1 版。
+版权所有(C) Microsoft Corp。保留所有权利。
+1>------ 已启动生成: 项目: cmTryCompileExec1822720528, 配置: Debug Win32 ------
+1>生成启动时间为 2014/7/20 10:34:10。
+1>PrepareForBuild:
+1>  正在创建目录“C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\CMakeTmp\Debug\”。
+1>InitializeBuildStatus:
+1>  正在创建“cmTryCompileExec1822720528.dir\Debug\cmTryCompileExec1822720528.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+1>ClCompile:
+1>  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.30319.01 版
+1>  版权所有(C) Microsoft Corporation。保留所有权利。
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1822720528.dir\Debug\\" /Fd"C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1822720528.pdb" /Gd /TC /analyze- /errorReport:prompt "D:\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"  /Zm1000 
+1>  
+1>  CMakeCCompilerABI.c
+1>LinkEmbedManifest:
+1>  cmTryCompileExec1822720528.vcxproj -> C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1822720528.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“cmTryCompileExec1822720528.dir\Debug\cmTryCompileExec1822720528.unsuccessfulbuild”。
+1>  正在对“cmTryCompileExec1822720528.dir\Debug\cmTryCompileExec1822720528.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:01.90
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~1\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3992803398
+
+Microsoft(R) Visual Studio 10.0.30319.1 版。
+版权所有(C) Microsoft Corp。保留所有权利。
+1>------ 已启动生成: 项目: cmTryCompileExec3992803398, 配置: Debug Win32 ------
+1>生成启动时间为 2014/7/20 10:34:16。
+1>PrepareForBuild:
+1>  正在创建目录“C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\CMakeTmp\Debug\”。
+1>InitializeBuildStatus:
+1>  正在创建“cmTryCompileExec3992803398.dir\Debug\cmTryCompileExec3992803398.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+1>ClCompile:
+1>  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.30319.01 版
+1>  版权所有(C) Microsoft Corporation。保留所有权利。
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3992803398.dir\Debug\\" /Fd"C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3992803398.pdb" /Gd /TP /analyze- /errorReport:prompt testCXXCompiler.cxx  /Zm1000 
+1>  
+1>  testCXXCompiler.cxx
+1>LinkEmbedManifest:
+1>  cmTryCompileExec3992803398.vcxproj -> C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3992803398.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“cmTryCompileExec3992803398.dir\Debug\cmTryCompileExec3992803398.unsuccessfulbuild”。
+1>  正在对“cmTryCompileExec3992803398.dir\Debug\cmTryCompileExec3992803398.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:03.17
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~1\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3765492558
+
+Microsoft(R) Visual Studio 10.0.30319.1 版。
+版权所有(C) Microsoft Corp。保留所有权利。
+1>------ 已启动生成: 项目: cmTryCompileExec3765492558, 配置: Debug Win32 ------
+1>生成启动时间为 2014/7/20 10:34:21。
+1>PrepareForBuild:
+1>  正在创建目录“C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\CMakeTmp\Debug\”。
+1>InitializeBuildStatus:
+1>  正在创建“cmTryCompileExec3765492558.dir\Debug\cmTryCompileExec3765492558.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+1>ClCompile:
+1>  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.30319.01 版
+1>  版权所有(C) Microsoft Corporation。保留所有权利。
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3765492558.dir\Debug\\" /Fd"C:/Users/00/Desktop/GJK/GJKtest/GJKtest/dependente/glm/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3765492558.pdb" /Gd /TP /analyze- /errorReport:prompt "D:\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"  /Zm1000 
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>LinkEmbedManifest:
+1>  cmTryCompileExec3765492558.vcxproj -> C:\Users\00\Desktop\GJK\GJKtest\GJKtest\dependente\glm\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3765492558.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“cmTryCompileExec3765492558.dir\Debug\cmTryCompileExec3765492558.unsuccessfulbuild”。
+1>  正在对“cmTryCompileExec3765492558.dir\Debug\cmTryCompileExec3765492558.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:01.80
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
+
+
